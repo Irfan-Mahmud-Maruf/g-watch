@@ -1,10 +1,10 @@
-import React from 'react';
+import Header from "../components/shaerd/Home/Header";
+
+
 
 const Home = () => {
     return (
-        <div>
-            
-        </div>
+        <Header></Header>
     );
 };
 

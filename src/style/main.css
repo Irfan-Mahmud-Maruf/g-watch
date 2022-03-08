@@ -1,0 +1,11 @@
+.text-shadow {
+  text-shadow: 2px 5px 7px #999;
+}
+.btn-success:hover {
+  color: #198754 !important;
+  background-color: #ffffff !important;
+  border-color: #198754 !important;
+}
+.g-box-shadow {
+  box-shadow: 2px 3px 12px #999;
+}
